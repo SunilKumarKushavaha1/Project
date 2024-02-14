@@ -12,4 +12,4 @@ I have made a project on Power BI. I made it using Stacked Column Chart, Stacked
 |6|Different payment mode by customer|Costomers do payment through different modes such as COD, UPI, DEBIT CARD, CREDIT CARD, EMI. This donut chart shows in percentage or no. of times payment done by different mode in a year.|
 |7|Sale to different customers|This is the stacked column chart. this chart shows no. of sold items of clothing, electronics and furniture to different customers in a year.|
 |8|Profit or Loss in different months|Profit or loss in different months of a year due to sale of clothing, electronics and furniture can be seen by this stacked bar chart.|
-|9|Total no. of customers in different cities| Total no. of customers of different of offices of India can be seen here.|
+|9|Total no. of customers in different cities| Total no. of customers of different of offices of India can be seen by this column chart.|
