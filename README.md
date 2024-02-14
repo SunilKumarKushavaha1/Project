@@ -10,3 +10,4 @@ I have made a project on Power BI. I made it using Stacked Column Chart, Stacked
 |4|Total sale in different months|This graph shows total sale of clothing, electronics and furniture in different months of a year.|
 |5|Total sale by product|This is the pie chart. This shows total sale of clothing, electronics and furniture in percentage and amount in a year.|
 |6|Different payment mode by customer|Costomers do payment through different modes such as COD, UPI, DEBIT CARD, CREDIT CARD, EMI. This donut chart shows in percentage or no. of times payment done in a year.|
+|7|Sale to different customers|This is the stacked column chart. this chart shows no. of sold items of clothing, electronics and furniture to different customers in a year|
